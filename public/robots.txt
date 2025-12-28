@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Block private pages
+Disallow: /login
+Disallow: /logout
+Disallow: /profile
+Disallow: /order
+Disallow: /payment
+Disallow: /order-confirmation
+
+# Sitemap
+Sitemap: https://www.letstryfoods.com/sitemap.xml

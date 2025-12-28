@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-letstryawsfoodies-dev-c2f3d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::841162675615:role/amplify-letstryawsfoodies-dev-c2f3d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::841162675615:role/amplify-letstryawsfoodies-dev-c2f3d-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-letstryawsfoodies-dev-c2f3d-deployment",
+      "UnauthRoleName": "amplify-letstryawsfoodies-dev-c2f3d-unauthRole",
+      "StackName": "amplify-letstryawsfoodies-dev-c2f3d",
+      "StackId": "arn:aws:cloudformation:eu-north-1:841162675615:stack/amplify-letstryawsfoodies-dev-c2f3d/249f7910-0557-11f0-97f9-0a882e8853c5",
+      "AmplifyAppId": "d2onn156wdytpb"
+    },
+    "categories": {
+      "auth": {
+        "letstryawsfoodies66c71862": {}
+      }
+    }
+  }
+}

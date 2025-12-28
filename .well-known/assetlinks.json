@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.letstryapp",
+      "sha256_cert_fingerprints": [
+        "9C:EF:D9:3D:E2:AD:48:6C:C2:AF:9A:6D:D4:3B:14:57:08:10:FF:BB:28:71:12:84:C4:90:57:C5:A9:1E:C3:78"
+      ]
+    }
+  }
+]

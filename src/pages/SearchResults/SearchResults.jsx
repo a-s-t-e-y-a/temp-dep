@@ -3,7 +3,6 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import MetaTag from '../../components/MateTagComponent/MetaTag';
 import SearchCard from '../../components/SearchCard/SearchCard';
-import AdBanner from '../../components/AdBanner/AdBanner';
 import { BiSearch } from "react-icons/bi";
 import SearchDisplay from '../../components/SearchDisplay/SearchDisplay';
 import { assets } from '../../assets/assets';
@@ -163,11 +162,6 @@ const SearchResults = () => {
         ogTitle={`"${query}" Search Results | Letstry`}
         ogDescription={`Browse ${products.length} search results for "${query}". Premium healthy snacks with fast delivery.`}
       />
-
-      {/* Ad banner at top for desktop */}
-      <div className="hidden lg:block md:block lg:mb-6 md:mb-4">
-        <AdBanner />
-      </div>
 
       {/* Mobile search input */}
       <div className="lg:hidden md:hidden flex ml-0 pl-0 gap-2 py-2">

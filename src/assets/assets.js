@@ -71,7 +71,7 @@ export const assets = {
     },
     {
       id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/pre-new-year.gif",
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/new-year_website.gif",
       tag2: "",
       active: true,
       actionType: "",
@@ -91,7 +91,7 @@ export const assets = {
     },
     {
       id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/pre-new-year_responsive.gif",
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/new-year_responsive.gif",
       tag2: "",
       active: true,
       actionType: "",

@@ -69,13 +69,7 @@ export const assets = {
       active: true,
       actionType: "link",
     },
-    {
-      id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/new-year_website.gif",
-      tag2: "",
-      active: true,
-      actionType: "",
-    },
+
     { id: 3, imageUrl: winter, tag2: "", active: true, actionType: "" },
     { id: 4, imageUrl: sharkTank1, tag2: "", active: true, actionType: "" },
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
@@ -89,13 +83,7 @@ export const assets = {
       active: true,
       actionType: "link",
     },
-    {
-      id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/new-year_responsive.gif",
-      tag2: "",
-      active: true,
-      actionType: "",
-    },
+
     { id: 2, imageUrl: wintermobile, tag2: "", active: true, actionType: "" },
     {
       id: 3,

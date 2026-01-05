@@ -1,4 +1,3 @@
-import React from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
@@ -14,18 +13,19 @@ import Loader from "./components/RotatingText/Loader.jsx";
 import { HelmetProvider } from "react-helmet-async";
 import Snowfall from "react-snowfall"
 
+const phone = window.innerWidth <= 768;
+
 createRoot(document.getElementById("root")).render(
   <AuthProvider>
      {/* Snowfall effect for festive season */}
       <Snowfall
         color="#AAADB3"
-        snowflakeCount={250}
+        snowflakeCount={phone ? 100 : 300}
         style={{
           position: "fixed",
           width: "100vw",
           height: "100vh",
           zIndex: 9999,
-      
           pointerEvents: "none"
         }}
       />

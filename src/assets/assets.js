@@ -63,6 +63,14 @@ export const assets = {
   banners: [
     {
       id: 0,
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/lohri website.gif",
+      link: "https://letstryfoods.com/category/Indian%20Sweets",
+      tag2: "",
+      active: true,
+      actionType: "link",
+    },
+    {
+      id: 1,
       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/Web%20Banner.webp",
       link: "https://www.letstryfoods.com/food/694f9a7570879776ef77b313",
       tag2: "",
@@ -75,8 +83,16 @@ export const assets = {
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
   ],
   mobileBanners: [
-    {
+      {
       id: 0,
+       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/lohri responsive.gif",
+      link: "https://letstryfoods.com/category/Indian%20Sweets",
+      tag2: "",
+      active: true,
+      actionType: "link",
+    },
+    {
+      id: 1,
       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/Web%20Banner.webp",
       link: "https://www.letstryfoods.com/food/694f9a7570879776ef77b313",
       tag2: "",

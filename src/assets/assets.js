@@ -61,13 +61,13 @@ import wintermobile from "./banners-mobile/winter-mobile.gif";
 
 export const assets = {
   banners: [
-     {
-      id: 0,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar+sankranti.gif",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
+    //  {
+    //   id: 0,
+    //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar+sankranti.gif",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
     // {
     //   id: 1,
     //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/lohri website.gif",
@@ -90,13 +90,13 @@ export const assets = {
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
   ],
   mobileBanners: [
-     {
-      id: 0,
-       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar+sankranti+(1).gif",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
+    //  {
+    //   id: 0,
+    //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar+sankranti+(1).gif",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
     //   {
     //   id: 0,
     //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/lohri responsive.gif",

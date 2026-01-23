@@ -70,7 +70,7 @@ export const assets = {
     },
     {
       id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar sankranti (3).gif",
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchami.gif",
       // link: "https://letstryfoods.com/category/Indian%20Sweets",
       tag2: "",
       active: true,
@@ -99,7 +99,7 @@ export const assets = {
     },
       {
       id: 0,
-       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/makar sankranti (2).gif",
+       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchmi.gif",
       // link: "https://letstryfoods.com/category/Indian%20Sweets",
       tag2: "",
       active: true,

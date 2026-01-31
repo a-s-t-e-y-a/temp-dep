@@ -61,21 +61,21 @@ import wintermobile from "./banners-mobile/winter-mobile.gif";
 
 export const assets = {
   banners: [
-     {
-      id: 0,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day.gif",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
-    {
-      id: 1,
-      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchami.gif",
-      // link: "https://letstryfoods.com/category/Indian%20Sweets",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
+    //  {
+    //   id: 0,
+    //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day.gif",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
+    // {
+    //   id: 1,
+    //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchami.gif",
+    //   // link: "https://letstryfoods.com/category/Indian%20Sweets",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
     {
       id: 2,
       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/Web%20Banner.webp",
@@ -90,21 +90,21 @@ export const assets = {
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
   ],
   mobileBanners: [
-     {
-      id: 0,
-       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day mobile.gif",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
-      {
-      id: 0,
-       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchmi.gif",
-      // link: "https://letstryfoods.com/category/Indian%20Sweets",
-      tag2: "",
-      active: true,
-      actionType: "link",
-    },
+    //  {
+    //   id: 0,
+    //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day mobile.gif",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
+    //   {
+    //   id: 0,
+    //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchmi.gif",
+    //   // link: "https://letstryfoods.com/category/Indian%20Sweets",
+    //   tag2: "",
+    //   active: true,
+    //   actionType: "link",
+    // },
     {
       id: 1,
       imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/Web%20Banner.webp",

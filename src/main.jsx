@@ -18,7 +18,7 @@ const phone = window.innerWidth <= 768;
 createRoot(document.getElementById("root")).render(
   <AuthProvider>
      {/* Snowfall effect for festive season */}
-      <Snowfall
+      {/* <Snowfall
         color="#AAADB3"
         snowflakeCount={phone ? 100 : 300}
         style={{
@@ -28,7 +28,7 @@ createRoot(document.getElementById("root")).render(
           zIndex: 9999,
           pointerEvents: "none"
         }}
-      />
+      /> */}
     <StoreContextProvider>
       <AddressProvider>
         <CartContextProvider>

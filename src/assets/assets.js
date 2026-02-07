@@ -61,13 +61,14 @@ import wintermobile from "./banners-mobile/winter-mobile.gif";
 
 export const assets = {
   banners: [
-    //  {
-    //   id: 0,
-    //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day.gif",
-    //   tag2: "",
-    //   active: true,
-    //   actionType: "link",
-    // },
+    {
+      id: 0,
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/valentaineday.gif",
+      tag2: "",
+      link: "/category/Cookies",
+      active: true,
+      actionType: "link",
+    },
     // {
     //   id: 1,
     //   imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchami.gif",
@@ -90,13 +91,14 @@ export const assets = {
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
   ],
   mobileBanners: [
-    //  {
-    //   id: 0,
-    //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/republic day mobile.gif",
-    //   tag2: "",
-    //   active: true,
-    //   actionType: "link",
-    // },
+    {
+      id: 0,
+      imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/phonevalentaineday.gif",
+      tag2: "",
+      link: "/category/Cookies",
+      active: true,
+      actionType: "link",
+    },
     //   {
     //   id: 0,
     //    imageUrl: "https://d11a0m43ek7ap8.cloudfront.net/vasant panchmi.gif",

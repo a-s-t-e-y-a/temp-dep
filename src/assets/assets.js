@@ -86,7 +86,7 @@ export const assets = {
       actionType: "link",
     },
 
-    { id: 3, imageUrl: winter, tag2: "", active: true, actionType: "" },
+    // { id: 3, imageUrl: winter, tag2: "", active: true, actionType: "" },
     // { id: 4, imageUrl: sharkTank1, tag2: "", active: true, actionType: "" },
     { id: 5, imageUrl: sharkTank2, tag2: "", active: true, actionType: "" },
   ],
@@ -116,7 +116,7 @@ export const assets = {
       actionType: "link",
     },
 
-    { id: 2, imageUrl: wintermobile, tag2: "", active: true, actionType: "" },
+    // { id: 2, imageUrl: wintermobile, tag2: "", active: true, actionType: "" },
     {
       id: 3,
       imageUrl: sharkTank1mobile,
